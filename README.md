@@ -1,5 +1,10 @@
 # crypto-calculator
 
+## Clone project
+```
+git clone https://github.com/AsylKydraliev/crypto-calculator.git
+```
+
 ## Project setup
 ```
 npm install
